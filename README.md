@@ -20,7 +20,7 @@ If you like this resource, please follow me on GitHub. Thank you!
 ![Signin](https://github.com/cenksari/react-crypto-exchange/blob/master/screenshots/6-signin.jpg?raw=true)
 
 ## Authors
-@cenksari
+Me
 
 ## Contributing
 Open an issue or a pull request to suggest changes or additions.
