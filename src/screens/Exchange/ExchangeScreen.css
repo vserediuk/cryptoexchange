@@ -1,0 +1,38 @@
+.crypto-exchange-card {
+  border: 2px solid #007bff; /* Граница для карточки обмена */
+  border-radius: 10px; /* Округленные углы */
+  padding: 20px;
+  text-align: center; /* Центрирование содержимого карточки */
+}
+
+.crypto-exchange-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.exchange-arrow {
+  font-size: 24px;
+  color: #ffa500; /* Цвет желтой стрелки */
+  transform: rotate(90deg); /* Поворот стрелки */
+  margin: 0; /* Отступы для стрелки */
+  line-height: 1; /* Выравнивание по высоте с кнопками */
+}
+
+.crypto-exchange-content {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.selected-cryptos {
+  margin-top: 20px;
+  text-align: center; /* Центрирование текста */
+}
+
+/* Стили для активного пункта в Dropdown */
+.dropdown-item.active {
+  background-color: #007bff !important;
+  color: white !important;
+}
